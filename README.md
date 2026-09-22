@@ -56,9 +56,9 @@ The source code is available in the `main.c` file.
 
 ## Hardware Setup
 
-![Hardware Setup](hardware-setup.jpg)
+![Hardware Setup](hardware-setup.jpeg)
 
-![LDR and Relay Setup](ldr-relay-setup.jpg)
+![LDR and Relay Setup](ldr-relay-setup.jpeg)
 
 ## Project Demonstration
 
