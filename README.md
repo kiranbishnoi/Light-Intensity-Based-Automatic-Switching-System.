@@ -53,3 +53,13 @@ This system can be used in applications such as:
 ## Source Code
 
 The source code is available in the `main.c` file.
+
+## Hardware Setup
+
+![Hardware Setup](hardware-setup.jpg)
+
+![LDR and Relay Setup](ldr-relay-setup.jpg)
+
+## Project Demonstration
+
+[View Project Demo](project-demo.mp4)
